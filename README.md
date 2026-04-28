@@ -149,7 +149,7 @@ As palavras mais frequentes foram **paulo, capital, saude, prefeitura** e **cida
 |---|---|
 | Disciplina | Big Data |
 | Avaliação | Segundo Checkpoint (CP2) |
-| Curso | Tecnologia em Análise e Desenvolvimento de Sistemas |
+| Curso | Engenharia de Software |
 | Turma | 4ESPG |
 | Aluno | Kayky Oliveira Schunck |
 | RM | 99756 |
